@@ -2,3 +2,7 @@ name: ToggleCondense
 version: '1.0'
 main: com.mills.toggleCondense.Main
 api-version: '1.21'
+commands:
+  togglecondense:
+    aliases:
+      - tc
