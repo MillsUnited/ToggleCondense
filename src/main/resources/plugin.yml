@@ -6,3 +6,4 @@ commands:
   togglecondense:
     aliases:
       - tc
+  tcadmin:

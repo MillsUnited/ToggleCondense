@@ -1,5 +1,6 @@
-package com.mills.toggleCondense;
+package com.mills.toggleCondense.Commands;
 
+import com.mills.toggleCondense.CondenseManager;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
